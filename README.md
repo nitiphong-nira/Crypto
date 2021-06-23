@@ -1,7 +1,7 @@
 # Crypto
 Transaction per second
 
-100[alt text](https://github.com/nitiphong-nira/Crypto/blob/main/TPS.JPG)
+![alt text](https://github.com/nitiphong-nira/Crypto/blob/main/TPS.JPG)
 
 https://solana.com/
 https://ripple.com/xrp/
